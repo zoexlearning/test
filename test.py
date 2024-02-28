@@ -1,0 +1,1 @@
+something = input("say something")
